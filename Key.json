@@ -8,9 +8,9 @@
     },
     {
         "day": 3,
-        "expire_at": null,
-        "hwid": null,
+        "expire_at": "2026-06-02 10:27:09",
+        "hwid": "DESKTOP-STKDCP2",
         "key": "daB2-C3D4-E5F6",
-        "used_at": null
+        "used_at": "2026-05-30 10:27:09"
     }
 ]
