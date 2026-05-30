@@ -2,7 +2,7 @@
     "1": {
         "hwid": null,
         "days": 3,
-        "expire_date": null,
-        "used_date": null
+        "used_date": null,
+        "expire_date": null
     }
 }
