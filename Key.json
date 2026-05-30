@@ -1,16 +1,16 @@
 [
-  {
-    "key": "A1B2-C3D4-E5F6",
-    "day": 3,
-    "hwid": null,
-    "used_at": null,
-    "expire_at": null
-  },
-  {
-    "key": "daB2-C3D4-E5F6",
-    "day": 3,
-    "hwid": null,
-    "used_at": null,
-    "expire_at": null
-  }
+    {
+        "day": 3,
+        "expire_at": "2026-06-02 10:24:09",
+        "hwid": "DESKTOP-STKDCP2",
+        "key": "A1B2-C3D4-E5F6",
+        "used_at": "2026-05-30 10:24:09"
+    },
+    {
+        "day": 3,
+        "expire_at": null,
+        "hwid": null,
+        "key": "daB2-C3D4-E5F6",
+        "used_at": null
+    }
 ]
