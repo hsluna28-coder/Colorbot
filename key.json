@@ -1,1 +1,8 @@
-
+{
+  "KEY-1234-5678": {
+    "days": 3,
+    "hwid": null,
+    "used_date": null,
+    "expire_date": null
+  }
+}
