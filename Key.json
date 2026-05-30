@@ -2,8 +2,8 @@
     {
         "key": "1",
         "day": 3,
-        "hwid": null,
-        "used_at": null,
-        "expire_at": null
+        "hwid": "DESKTOP-STKDCP2",
+        "used_at": "2026-05-30 10:30:22",
+        "expire_at": "2026-06-02 10:30:22"
     }
 ]
