@@ -1,8 +1,8 @@
 {
     "KEY-1234-5678": {
         "days": 3,
-        "expire_date": null,
-        "hwid": null,
-        "used_date": null
+        "expire_date": "2026-06-02 09:27:15",
+        "hwid": "PC-HWID-123456",
+        "used_date": "2026-05-30 09:27:15"
     }
 }
