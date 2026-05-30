@@ -1,0 +1,16 @@
+[
+  {
+    "key": "A1B2-C3D4-E5F6",
+    "day": 3,
+    "hwid": null,
+    "used_at": null,
+    "expire_at": null
+  },
+  {
+    "key": "daB2-C3D4-E5F6",
+    "day": 3,
+    "hwid": null,
+    "used_at": null,
+    "expire_at": null
+  }
+]
